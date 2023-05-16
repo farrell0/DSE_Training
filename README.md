@@ -5,10 +5,15 @@ DataStax Enterprise Training -- Version 6.8, not maintained
 |---------------|---------------|---------------|---------------|
 
 A long time ago I created a bunch of training materials relative to DataStax Enterprise.
+
    .  DSE -- Core, was effectively Apache Cassandra
+
    .  DSE -- Search, was efectively Solr/Lucene
+
    .  DSE -- Analytics, was effectively Spark
+ 
    .  DSE -- Graph, was effectively Apache Tinkerpop/Gremlin
+
 
 This site is no longer updated with new articles/information.
 
